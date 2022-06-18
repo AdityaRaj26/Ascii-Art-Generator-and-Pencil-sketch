@@ -22,5 +22,7 @@ In this project basically use of python libraries (openCV , pillow ) are used fo
 
 
 referances/resourses:
+
 https://www.geeksforgeeks.org/converting-image-ascii-image-python/
+
 https://www.youtube.com/watch?v=55iwMYv8tGI
