@@ -1,4 +1,4 @@
-# Ascii-Art-Generator-and-Pencil-sketch
+# Ascii-Art-Generator-(image and video)
 
 This is an image processing project in which we will covert the images and videos into their ascii form in python language using python pillow library and opencv image processing library.
 
